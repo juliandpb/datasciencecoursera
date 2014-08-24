@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This repo stands for the creation of the "datasciencecoursera" repo question
+This repo covers the first Course Project in the Data Science Specialization.
